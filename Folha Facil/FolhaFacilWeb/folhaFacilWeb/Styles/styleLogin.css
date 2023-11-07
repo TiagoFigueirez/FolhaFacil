@@ -1,0 +1,148 @@
+﻿@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;600&display=swap');
+
+body {
+    margin: 0;
+    font-family: 'Noto Sans', sans-serif;
+}
+
+
+.mainLogin {
+    width: 100vw; /* vw e a porcentagem da largura da tag com relação a tela e o vh e a mesma coisa mas com altura*/
+    height: 100vh;
+    background: #201b2c;
+    display: flex; /*flex adiciona os tiens lado a lado*/
+    justify-content: center; /*essa propriedade centraliza os itens em relação ao eixo y (vertical)*/
+    align-items: center; /*faz o mesmo que o justify mas com relação ao eixo x (horizontal) */
+}
+
+.leftLogin {
+    width: 50vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column; /*flex direction adiciona um embaixo da outra caso escolha a opção column*/
+}
+
+
+    .leftLogin > h1 {
+        color: #77ffc0;
+        width: 35vw;
+    }
+
+img {
+    width: 300px;
+    height: 300px;
+}
+
+.rightLogin {
+    width: 50vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.cardLogin {
+    width: 60%; /*aqui utilizamos porcentagem por que o vw usa como base a tela inteira ja o % e em relação a div*/
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 30px 35px;
+    background-color: #2f2841;
+    border-radius: 20px; /*border radius arredonda as bordas*/
+    box-shadow: 0px 10px 40px #00000056; /*essae atributo add sombra a caixa o primeiro valor add sombra no eixo x
+    o segundo no eixo y sendo positivo para um lado negativo a sombra vai oara outro e zero no centro a terceira 
+    propriedade e o blaour da shadow e a ultima a cor*/
+}
+
+.mensagem-erro{
+    display:flex;
+    align-items:end;
+    color: red;
+}
+
+    .cardLogin > h1 {
+        color: #00ff88;
+        font-weight: 800;
+        margin: 0;
+    }
+
+.textField {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    margin: 10px 0px;
+}
+
+    input {
+        width: 100%;
+        border: none;
+        border-radius: 10px;
+        padding: 15px;
+        background: #514869;
+        color: #f0ffffde;
+        font-size: 12pt;
+        box-shadow: 0px 10px 40px #00000056;
+        outline: none; /*remove as linhas que contorna a caixa*/
+        box-sizing: border-box; /*impede as tags de se colidirem uma com a outra*/
+    }
+
+
+
+    .textField > label {
+        color: white;
+        margin-bottom: 10px;
+    }
+
+        .textField > label::placeholder {
+            color: #f0ffff94;
+        }
+
+.btnLogin {
+    border-style: none;
+    border-color: inherit;
+    border-width: medium;
+    padding: 16px 0px;
+    border-radius: 10px;
+    margin: 25px;
+    outline: none;
+    text-transform: uppercase;
+    font-weight: 800;
+    letter-spacing: 3px;
+    color: #2b134b;
+    background-color: #00ff88;
+    cursor: pointer; /*coloa a mãozinha ao passar o mouse no botão*/
+    box-shadow: 0px 10px 40px -12px #00ff8052;
+    width: 100%;
+}
+
+/* esses compoentes aqui podemos colocar dereminadas condições para cada tamnho maximo de tela dixando ele assim responsivo apos o @media colocar a opção max-width*/
+
+@media screen and (max-width: 950px) {
+    .cardLogin {
+        width: 85%
+
+    }
+
+    
+
+    @media screen and (max-width: 650px) {
+        .mainLogin {
+            flex-direction: column;
+        }
+
+        .leftLogin {
+            display: none;
+        }
+
+        .rightLogin {
+            width: 90%;
+        }
+
+
+    }
+}
