@@ -1,0 +1,90 @@
+C:\Users\Tiago-PC\Desktop\PIM\Programa PIM\classesDeControle\bin\Debug\classesDeControle.dll.config
+C:\Users\Tiago-PC\Desktop\PIM\Programa PIM\classesDeControle\bin\Debug\classesDeControle.dll
+C:\Users\Tiago-PC\Desktop\PIM\Programa PIM\classesDeControle\bin\Debug\classesDeControle.pdb
+C:\Users\Tiago-PC\Desktop\PIM\Programa PIM\classesDeControle\bin\Debug\projeto.Modelo.dll
+C:\Users\Tiago-PC\Desktop\PIM\Programa PIM\classesDeControle\bin\Debug\projeto.Modelo.pdb
+C:\Users\Tiago-PC\Desktop\PIM\Programa PIM\classesDeControle\obj\Debug\projeto.Controle.csproj.AssemblyReference.cache
+C:\Users\Tiago-PC\Desktop\PIM\Programa PIM\classesDeControle\obj\Debug\projeto.Controle.csproj.CoreCompileInputs.cache
+C:\Users\Tiago-PC\Desktop\PIM\Programa PIM\classesDeControle\obj\Debug\projeto.Controle.csproj.CopyComplete
+C:\Users\Tiago-PC\Desktop\PIM\Programa PIM\classesDeControle\obj\Debug\classesDeControle.dll
+C:\Users\Tiago-PC\Desktop\PIM\Programa PIM\classesDeControle\obj\Debug\classesDeControle.pdb
+D:\workspace-cs\Programa PIM\classesDeControle\bin\Debug\classesDeControle.dll.config
+D:\workspace-cs\Programa PIM\classesDeControle\bin\Debug\classesDeControle.dll
+D:\workspace-cs\Programa PIM\classesDeControle\bin\Debug\classesDeControle.pdb
+D:\workspace-cs\Programa PIM\classesDeControle\bin\Debug\projeto.Modelo.dll
+D:\workspace-cs\Programa PIM\classesDeControle\bin\Debug\projeto.Modelo.pdb
+D:\workspace-cs\Programa PIM\classesDeControle\obj\Debug\projeto.Controle.csproj.AssemblyReference.cache
+D:\workspace-cs\Programa PIM\classesDeControle\obj\Debug\projeto.Controle.csproj.CoreCompileInputs.cache
+D:\workspace-cs\Programa PIM\classesDeControle\obj\Debug\projeto.Controle.csproj.CopyComplete
+D:\workspace-cs\Programa PIM\classesDeControle\obj\Debug\classesDeControle.dll
+D:\workspace-cs\Programa PIM\classesDeControle\obj\Debug\classesDeControle.pdb
+C:\Users\Tiago-PC\Desktop\Programa PIM\classesDeControle\bin\Debug\classesDeControle.dll.config
+C:\Users\Tiago-PC\Desktop\Programa PIM\classesDeControle\bin\Debug\classesDeControle.dll
+C:\Users\Tiago-PC\Desktop\Programa PIM\classesDeControle\bin\Debug\classesDeControle.pdb
+C:\Users\Tiago-PC\Desktop\Programa PIM\classesDeControle\bin\Debug\projeto.Modelo.dll
+C:\Users\Tiago-PC\Desktop\Programa PIM\classesDeControle\bin\Debug\projeto.Modelo.pdb
+C:\Users\Tiago-PC\Desktop\Programa PIM\classesDeControle\obj\Debug\projeto.Controle.csproj.AssemblyReference.cache
+C:\Users\Tiago-PC\Desktop\Programa PIM\classesDeControle\obj\Debug\projeto.Controle.csproj.CoreCompileInputs.cache
+C:\Users\Tiago-PC\Desktop\Programa PIM\classesDeControle\obj\Debug\projeto.Controle.csproj.CopyComplete
+C:\Users\Tiago-PC\Desktop\Programa PIM\classesDeControle\obj\Debug\classesDeControle.dll
+C:\Users\Tiago-PC\Desktop\Programa PIM\classesDeControle\obj\Debug\classesDeControle.pdb
+E:\Programa PIM\classesDeControle\bin\Debug\classesDeControle.dll.config
+E:\Programa PIM\classesDeControle\bin\Debug\classesDeControle.dll
+E:\Programa PIM\classesDeControle\bin\Debug\classesDeControle.pdb
+E:\Programa PIM\classesDeControle\bin\Debug\projeto.Modelo.dll
+E:\Programa PIM\classesDeControle\bin\Debug\projeto.Modelo.pdb
+E:\Programa PIM\classesDeControle\obj\Debug\projeto.Controle.csproj.AssemblyReference.cache
+E:\Programa PIM\classesDeControle\obj\Debug\projeto.Controle.csproj.CoreCompileInputs.cache
+E:\Programa PIM\classesDeControle\obj\Debug\projeto.Controle.csproj.CopyComplete
+E:\Programa PIM\classesDeControle\obj\Debug\classesDeControle.dll
+E:\Programa PIM\classesDeControle\obj\Debug\classesDeControle.pdb
+C:\Users\gpnet\Documents\PIM\Programa PIM\classesDeControle\bin\Debug\classesDeControle.dll.config
+C:\Users\gpnet\Documents\PIM\Programa PIM\classesDeControle\bin\Debug\classesDeControle.dll
+C:\Users\gpnet\Documents\PIM\Programa PIM\classesDeControle\bin\Debug\classesDeControle.pdb
+C:\Users\gpnet\Documents\PIM\Programa PIM\classesDeControle\bin\Debug\projeto.Modelo.dll
+C:\Users\gpnet\Documents\PIM\Programa PIM\classesDeControle\bin\Debug\projeto.Modelo.pdb
+C:\Users\gpnet\Documents\PIM\Programa PIM\classesDeControle\obj\Debug\projeto.Controle.csproj.AssemblyReference.cache
+C:\Users\gpnet\Documents\PIM\Programa PIM\classesDeControle\obj\Debug\projeto.Controle.csproj.CoreCompileInputs.cache
+C:\Users\gpnet\Documents\PIM\Programa PIM\classesDeControle\obj\Debug\projeto.Controle.csproj.CopyComplete
+C:\Users\gpnet\Documents\PIM\Programa PIM\classesDeControle\obj\Debug\classesDeControle.dll
+C:\Users\gpnet\Documents\PIM\Programa PIM\classesDeControle\obj\Debug\classesDeControle.pdb
+C:\Users\gpnet\Pictures\Programa PIM\classesDeControle\bin\Debug\classesDeControle.dll.config
+C:\Users\gpnet\Pictures\Programa PIM\classesDeControle\bin\Debug\classesDeControle.dll
+C:\Users\gpnet\Pictures\Programa PIM\classesDeControle\bin\Debug\classesDeControle.pdb
+C:\Users\gpnet\Pictures\Programa PIM\classesDeControle\bin\Debug\projeto.Modelo.dll
+C:\Users\gpnet\Pictures\Programa PIM\classesDeControle\bin\Debug\projeto.Modelo.pdb
+C:\Users\gpnet\Pictures\Programa PIM\classesDeControle\obj\Debug\projeto.Controle.csproj.AssemblyReference.cache
+C:\Users\gpnet\Pictures\Programa PIM\classesDeControle\obj\Debug\projeto.Controle.csproj.CoreCompileInputs.cache
+C:\Users\gpnet\Pictures\Programa PIM\classesDeControle\obj\Debug\projeto.Controle.csproj.CopyComplete
+C:\Users\gpnet\Pictures\Programa PIM\classesDeControle\obj\Debug\classesDeControle.dll
+C:\Users\gpnet\Pictures\Programa PIM\classesDeControle\obj\Debug\classesDeControle.pdb
+C:\Users\Windows\Downloads\Programa PIM\classesDeControle\bin\Debug\classesDeControle.dll.config
+C:\Users\Windows\Downloads\Programa PIM\classesDeControle\bin\Debug\classesDeControle.dll
+C:\Users\Windows\Downloads\Programa PIM\classesDeControle\bin\Debug\classesDeControle.pdb
+C:\Users\Windows\Downloads\Programa PIM\classesDeControle\bin\Debug\projeto.Modelo.dll
+C:\Users\Windows\Downloads\Programa PIM\classesDeControle\bin\Debug\projeto.Modelo.pdb
+C:\Users\Windows\Downloads\Programa PIM\classesDeControle\obj\Debug\projeto.Controle.csproj.AssemblyReference.cache
+C:\Users\Windows\Downloads\Programa PIM\classesDeControle\obj\Debug\projeto.Controle.csproj.CoreCompileInputs.cache
+C:\Users\Windows\Downloads\Programa PIM\classesDeControle\obj\Debug\projeto.Controle.csproj.CopyComplete
+C:\Users\Windows\Downloads\Programa PIM\classesDeControle\obj\Debug\classesDeControle.dll
+C:\Users\Windows\Downloads\Programa PIM\classesDeControle\obj\Debug\classesDeControle.pdb
+C:\Users\Windows\Downloads\PROGRAMA PIM\Programa PIM\classesDeControle\bin\Debug\classesDeControle.dll.config
+C:\Users\Windows\Downloads\PROGRAMA PIM\Programa PIM\classesDeControle\bin\Debug\classesDeControle.dll
+C:\Users\Windows\Downloads\PROGRAMA PIM\Programa PIM\classesDeControle\bin\Debug\classesDeControle.pdb
+C:\Users\Windows\Downloads\PROGRAMA PIM\Programa PIM\classesDeControle\bin\Debug\projeto.Modelo.dll
+C:\Users\Windows\Downloads\PROGRAMA PIM\Programa PIM\classesDeControle\bin\Debug\projeto.Modelo.pdb
+C:\Users\Windows\Downloads\PROGRAMA PIM\Programa PIM\classesDeControle\obj\Debug\projeto.Controle.csproj.AssemblyReference.cache
+C:\Users\Windows\Downloads\PROGRAMA PIM\Programa PIM\classesDeControle\obj\Debug\projeto.Controle.csproj.CoreCompileInputs.cache
+C:\Users\Windows\Downloads\PROGRAMA PIM\Programa PIM\classesDeControle\obj\Debug\projeto.Controle.csproj.CopyComplete
+C:\Users\Windows\Downloads\PROGRAMA PIM\Programa PIM\classesDeControle\obj\Debug\classesDeControle.dll
+C:\Users\Windows\Downloads\PROGRAMA PIM\Programa PIM\classesDeControle\obj\Debug\classesDeControle.pdb
+C:\Users\gpnet\Documents\Programa PIM\classesDeControle\bin\Debug\classesDeControle.dll.config
+C:\Users\gpnet\Documents\Programa PIM\classesDeControle\bin\Debug\classesDeControle.dll
+C:\Users\gpnet\Documents\Programa PIM\classesDeControle\bin\Debug\classesDeControle.pdb
+C:\Users\gpnet\Documents\Programa PIM\classesDeControle\bin\Debug\projeto.Modelo.dll
+C:\Users\gpnet\Documents\Programa PIM\classesDeControle\bin\Debug\projeto.Modelo.pdb
+C:\Users\gpnet\Documents\Programa PIM\classesDeControle\obj\Debug\projeto.Controle.csproj.AssemblyReference.cache
+C:\Users\gpnet\Documents\Programa PIM\classesDeControle\obj\Debug\projeto.Controle.csproj.CoreCompileInputs.cache
+C:\Users\gpnet\Documents\Programa PIM\classesDeControle\obj\Debug\projeto.Controle.csproj.CopyComplete
+C:\Users\gpnet\Documents\Programa PIM\classesDeControle\obj\Debug\classesDeControle.dll
+C:\Users\gpnet\Documents\Programa PIM\classesDeControle\obj\Debug\classesDeControle.pdb
