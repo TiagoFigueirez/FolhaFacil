@@ -1,0 +1,76 @@
+﻿@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;600&display=swap');
+
+
+body {
+    background: #2f2841;
+    margin: 0;
+    font-family: 'Noto Sans', sans-serif;
+}
+
+img{
+    width:600px;
+    height:600px;
+}
+
+.main-pagina-principal {
+    width: 100%;
+    height: 100%;
+    display:flex;
+    justify-content:center;
+    align-items: center;
+}
+
+.left-pagina-inicial {
+    width: 50%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items:flex-start;
+    flex-direction: column
+}
+    .left-pagina-inicial h1 {
+        text-align: center;
+        color: #77ffc0;
+        padding-bottom:5px;
+    }
+    .left-pagina-inicial p {
+        align-items: center;
+        color: white;
+        margin-left:25px;
+    }
+
+@media screen and (max-width: 730px){
+
+    .main-pagina-principal{
+        width:100%;
+        flex-direction:column;
+
+    }
+
+    .left-pagina-inicial{
+        margin-top:100px;
+
+        
+    }
+    .left-pagina-inicial h1{
+        font-size: 25px;
+        text-align:center;
+    }
+
+    .left-pagina-inicial p{
+        text-align:center;
+        font-size:15px;
+       
+    }
+
+    .right-pagina-inicial {
+        margin-top:50px;
+    }
+    img{
+        width:300px;
+        height:300px;
+    }
+}
+
+
+
