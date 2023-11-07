@@ -1,0 +1,58 @@
+C:\Users\thiago.paula\Desktop\Prototipo de RH\PrototipoRH\bin\Debug\PrototipoRH.exe.config
+C:\Users\thiago.paula\Desktop\Prototipo de RH\PrototipoRH\bin\Debug\PrototipoRH.exe
+C:\Users\thiago.paula\Desktop\Prototipo de RH\PrototipoRH\bin\Debug\PrototipoRH.pdb
+C:\Users\thiago.paula\Desktop\Prototipo de RH\PrototipoRH\obj\Debug\PrototipoRH.csproj.AssemblyReference.cache
+C:\Users\thiago.paula\Desktop\Prototipo de RH\PrototipoRH\obj\Debug\PrototipoRH.csproj.SuggestedBindingRedirects.cache
+C:\Users\thiago.paula\Desktop\Prototipo de RH\PrototipoRH\obj\Debug\PrototipoRH.FrmPrincipal.resources
+C:\Users\thiago.paula\Desktop\Prototipo de RH\PrototipoRH\obj\Debug\PrototipoRH.Properties.Resources.resources
+C:\Users\thiago.paula\Desktop\Prototipo de RH\PrototipoRH\obj\Debug\PrototipoRH.csproj.GenerateResource.cache
+C:\Users\thiago.paula\Desktop\Prototipo de RH\PrototipoRH\obj\Debug\PrototipoRH.csproj.CoreCompileInputs.cache
+C:\Users\thiago.paula\Desktop\Prototipo de RH\PrototipoRH\obj\Debug\PrototipoRH.exe
+C:\Users\thiago.paula\Desktop\Prototipo de RH\PrototipoRH\obj\Debug\PrototipoRH.pdb
+D:\tiago\Prototipo de RH\PrototipoRH\bin\Debug\PrototipoRH.exe.config
+D:\tiago\Prototipo de RH\PrototipoRH\bin\Debug\PrototipoRH.exe
+D:\tiago\Prototipo de RH\PrototipoRH\bin\Debug\PrototipoRH.pdb
+D:\tiago\Prototipo de RH\PrototipoRH\obj\Debug\PrototipoRH.csproj.AssemblyReference.cache
+D:\tiago\Prototipo de RH\PrototipoRH\obj\Debug\PrototipoRH.csproj.SuggestedBindingRedirects.cache
+D:\tiago\Prototipo de RH\PrototipoRH\obj\Debug\PrototipoRH.FrmPrincipal.resources
+D:\tiago\Prototipo de RH\PrototipoRH\obj\Debug\PrototipoRH.Properties.Resources.resources
+D:\tiago\Prototipo de RH\PrototipoRH\obj\Debug\PrototipoRH.csproj.GenerateResource.cache
+D:\tiago\Prototipo de RH\PrototipoRH\obj\Debug\PrototipoRH.csproj.CoreCompileInputs.cache
+D:\tiago\Prototipo de RH\PrototipoRH\obj\Debug\PrototipoRH.exe
+D:\tiago\Prototipo de RH\PrototipoRH\obj\Debug\PrototipoRH.pdb
+D:\tiago\Prototipo de RH\PrototipoRH\obj\Debug\PrototipoRH.Funcionarios.FrmFuncionario.resources
+C:\Users\thiago.paula\Desktop\Prototipo de RH\PrototipoRH\obj\Debug\PrototipoRH.Funcionarios.FrmFuncionario.resources
+C:\Users\thiago.paula\Desktop\Prototipo de RH\PrototipoRH\obj\Debug\PrototipoRH.Funcionarios.FrmCadastrarFuncionario.resources
+C:\Users\thiago.paula\Desktop\Prototipo de RH\PrototipoRH\obj\Debug\PrototipoRH.Empresas.FrmEmpresa.resources
+C:\Users\thiago.paula\Desktop\Prototipo de RH\PrototipoRH\obj\Debug\PrototipoRH.Convenio.FrmConvenio.resources
+C:\Users\thiago.paula\Desktop\PIM\PrototipoRH\bin\Debug\PrototipoRH.exe.config
+C:\Users\thiago.paula\Desktop\PIM\PrototipoRH\bin\Debug\PrototipoRH.exe
+C:\Users\thiago.paula\Desktop\PIM\PrototipoRH\bin\Debug\PrototipoRH.pdb
+C:\Users\thiago.paula\Desktop\PIM\PrototipoRH\obj\Debug\PrototipoRH.csproj.AssemblyReference.cache
+C:\Users\thiago.paula\Desktop\PIM\PrototipoRH\obj\Debug\PrototipoRH.Empresas.FrmEmpresa.resources
+C:\Users\thiago.paula\Desktop\PIM\PrototipoRH\obj\Debug\PrototipoRH.FrmPrincipal.resources
+C:\Users\thiago.paula\Desktop\PIM\PrototipoRH\obj\Debug\PrototipoRH.Funcionarios.FrmFuncionario.resources
+C:\Users\thiago.paula\Desktop\PIM\PrototipoRH\obj\Debug\PrototipoRH.Properties.Resources.resources
+C:\Users\thiago.paula\Desktop\PIM\PrototipoRH\obj\Debug\PrototipoRH.csproj.GenerateResource.cache
+C:\Users\thiago.paula\Desktop\PIM\PrototipoRH\obj\Debug\PrototipoRH.csproj.CoreCompileInputs.cache
+C:\Users\thiago.paula\Desktop\PIM\PrototipoRH\obj\Debug\PrototipoRH.exe
+C:\Users\thiago.paula\Desktop\PIM\PrototipoRH\obj\Debug\PrototipoRH.pdb
+C:\Users\thiago.paula\Desktop\PIM\PrototipoRH\obj\Debug\PrototipoRH.Folha_de_Pagamento.frmFolhaPagamento.resources
+C:\Users\thiago.paula\Desktop\PIM\PrototipoRH\obj\Debug\PrototipoRH.Ferias.frmFerias.resources
+C:\Users\thiago.paula\Desktop\PIM\PrototipoRH\obj\Debug\PrototipoRH.Usuarios.frmUsuario.resources
+C:\Users\Tiago\Desktop\PIM\PrototipoRH\bin\Debug\PrototipoRH.exe.config
+C:\Users\Tiago\Desktop\PIM\PrototipoRH\bin\Debug\PrototipoRH.exe
+C:\Users\Tiago\Desktop\PIM\PrototipoRH\bin\Debug\PrototipoRH.pdb
+C:\Users\Tiago\Desktop\PIM\PrototipoRH\obj\Debug\PrototipoRH.csproj.AssemblyReference.cache
+C:\Users\Tiago\Desktop\PIM\PrototipoRH\obj\Debug\PrototipoRH.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tiago\Desktop\PIM\PrototipoRH\obj\Debug\PrototipoRH.Empresas.FrmEmpresa.resources
+C:\Users\Tiago\Desktop\PIM\PrototipoRH\obj\Debug\PrototipoRH.Ferias.frmFerias.resources
+C:\Users\Tiago\Desktop\PIM\PrototipoRH\obj\Debug\PrototipoRH.Folha_de_Pagamento.frmFolhaPagamento.resources
+C:\Users\Tiago\Desktop\PIM\PrototipoRH\obj\Debug\PrototipoRH.FrmPrincipal.resources
+C:\Users\Tiago\Desktop\PIM\PrototipoRH\obj\Debug\PrototipoRH.Funcionarios.FrmFuncionario.resources
+C:\Users\Tiago\Desktop\PIM\PrototipoRH\obj\Debug\PrototipoRH.Properties.Resources.resources
+C:\Users\Tiago\Desktop\PIM\PrototipoRH\obj\Debug\PrototipoRH.Usuarios.frmUsuario.resources
+C:\Users\Tiago\Desktop\PIM\PrototipoRH\obj\Debug\PrototipoRH.csproj.GenerateResource.cache
+C:\Users\Tiago\Desktop\PIM\PrototipoRH\obj\Debug\PrototipoRH.csproj.CoreCompileInputs.cache
+C:\Users\Tiago\Desktop\PIM\PrototipoRH\obj\Debug\PrototipoRH.exe
+C:\Users\Tiago\Desktop\PIM\PrototipoRH\obj\Debug\PrototipoRH.pdb

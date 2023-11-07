@@ -1,0 +1,266 @@
+D:\workspace-cs\Programa PIM\DesktopFolhaFacil\obj\Debug\projeto.Desktop.csproj.AssemblyReference.cache
+D:\workspace-cs\Programa PIM\DesktopFolhaFacil\obj\Debug\projeto.Desktop.csproj.SuggestedBindingRedirects.cache
+D:\workspace-cs\Programa PIM\DesktopFolhaFacil\obj\Debug\PrototipoRH.Empresas.frmAddEmpresa.resources
+D:\workspace-cs\Programa PIM\DesktopFolhaFacil\obj\Debug\PrototipoRH.Empresas.frmDeleteEmpresa.resources
+D:\workspace-cs\Programa PIM\DesktopFolhaFacil\obj\Debug\PrototipoRH.Empresas.frmEmpresa.resources
+D:\workspace-cs\Programa PIM\DesktopFolhaFacil\obj\Debug\PrototipoRH.Ferias.frmFerias.resources
+D:\workspace-cs\Programa PIM\DesktopFolhaFacil\obj\Debug\PrototipoRH.Folha_de_Pagamento.frmFolhaPagamento.resources
+D:\workspace-cs\Programa PIM\DesktopFolhaFacil\obj\Debug\PrototipoRH.FrmPrincipal.resources
+D:\workspace-cs\Programa PIM\DesktopFolhaFacil\obj\Debug\PrototipoRH.Funcionarios.frmAddFuncionario.resources
+D:\workspace-cs\Programa PIM\DesktopFolhaFacil\obj\Debug\PrototipoRH.Funcionarios.frmFuncionario.resources
+D:\workspace-cs\Programa PIM\DesktopFolhaFacil\obj\Debug\PrototipoRH.Login.frmLogin.resources
+D:\workspace-cs\Programa PIM\DesktopFolhaFacil\obj\Debug\PrototipoRH.Properties.Resources.resources
+D:\workspace-cs\Programa PIM\DesktopFolhaFacil\obj\Debug\PrototipoRH.Usuarios.frmUsuario.resources
+D:\workspace-cs\Programa PIM\DesktopFolhaFacil\obj\Debug\projeto.Desktop.csproj.GenerateResource.cache
+D:\workspace-cs\Programa PIM\DesktopFolhaFacil\obj\Debug\projeto.Desktop.csproj.CoreCompileInputs.cache
+D:\workspace-cs\Programa PIM\DesktopFolhaFacil\obj\Debug\PrototipoRH.exe
+D:\workspace-cs\Programa PIM\DesktopFolhaFacil\obj\Debug\PrototipoRH.pdb
+D:\workspace-cs\Programa PIM\DesktopFolhaFacil\bin\Debug\PrototipoRH.exe.config
+D:\workspace-cs\Programa PIM\DesktopFolhaFacil\bin\Debug\PrototipoRH.exe
+D:\workspace-cs\Programa PIM\DesktopFolhaFacil\bin\Debug\PrototipoRH.pdb
+D:\workspace-cs\Programa PIM\DesktopFolhaFacil\bin\Debug\classesDeControle.dll
+D:\workspace-cs\Programa PIM\DesktopFolhaFacil\bin\Debug\projeto.Modelo.dll
+D:\workspace-cs\Programa PIM\DesktopFolhaFacil\bin\Debug\System.Data.SqlClient.dll
+D:\workspace-cs\Programa PIM\DesktopFolhaFacil\bin\Debug\classesDeControle.pdb
+D:\workspace-cs\Programa PIM\DesktopFolhaFacil\bin\Debug\classesDeControle.dll.config
+D:\workspace-cs\Programa PIM\DesktopFolhaFacil\bin\Debug\projeto.Modelo.pdb
+D:\workspace-cs\Programa PIM\DesktopFolhaFacil\bin\Debug\System.Data.SqlClient.xml
+D:\workspace-cs\Programa PIM\DesktopFolhaFacil\obj\Debug\projeto.Desktop.csproj.CopyComplete
+C:\Users\Tiago-PC\Desktop\Programa PIM\DesktopFolhaFacil\bin\Debug\PrototipoRH.exe.config
+C:\Users\Tiago-PC\Desktop\Programa PIM\DesktopFolhaFacil\bin\Debug\PrototipoRH.exe
+C:\Users\Tiago-PC\Desktop\Programa PIM\DesktopFolhaFacil\bin\Debug\PrototipoRH.pdb
+C:\Users\Tiago-PC\Desktop\Programa PIM\DesktopFolhaFacil\bin\Debug\classesDeControle.dll
+C:\Users\Tiago-PC\Desktop\Programa PIM\DesktopFolhaFacil\bin\Debug\projeto.Modelo.dll
+C:\Users\Tiago-PC\Desktop\Programa PIM\DesktopFolhaFacil\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Tiago-PC\Desktop\Programa PIM\DesktopFolhaFacil\bin\Debug\classesDeControle.pdb
+C:\Users\Tiago-PC\Desktop\Programa PIM\DesktopFolhaFacil\bin\Debug\classesDeControle.dll.config
+C:\Users\Tiago-PC\Desktop\Programa PIM\DesktopFolhaFacil\bin\Debug\projeto.Modelo.pdb
+C:\Users\Tiago-PC\Desktop\Programa PIM\DesktopFolhaFacil\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Tiago-PC\Desktop\Programa PIM\DesktopFolhaFacil\obj\Debug\projeto.Desktop.csproj.AssemblyReference.cache
+C:\Users\Tiago-PC\Desktop\Programa PIM\DesktopFolhaFacil\obj\Debug\PrototipoRH.Empresas.frmAddEmpresa.resources
+C:\Users\Tiago-PC\Desktop\Programa PIM\DesktopFolhaFacil\obj\Debug\PrototipoRH.Empresas.frmEmpresa.resources
+C:\Users\Tiago-PC\Desktop\Programa PIM\DesktopFolhaFacil\obj\Debug\PrototipoRH.Ferias.frmFerias.resources
+C:\Users\Tiago-PC\Desktop\Programa PIM\DesktopFolhaFacil\obj\Debug\PrototipoRH.Folha_de_Pagamento.frmFolhaPagamento.resources
+C:\Users\Tiago-PC\Desktop\Programa PIM\DesktopFolhaFacil\obj\Debug\PrototipoRH.FrmPrincipal.resources
+C:\Users\Tiago-PC\Desktop\Programa PIM\DesktopFolhaFacil\obj\Debug\PrototipoRH.Funcionarios.frmAddFuncionario.resources
+C:\Users\Tiago-PC\Desktop\Programa PIM\DesktopFolhaFacil\obj\Debug\PrototipoRH.Funcionarios.frmFuncionario.resources
+C:\Users\Tiago-PC\Desktop\Programa PIM\DesktopFolhaFacil\obj\Debug\PrototipoRH.Login.frmLogin.resources
+C:\Users\Tiago-PC\Desktop\Programa PIM\DesktopFolhaFacil\obj\Debug\PrototipoRH.Properties.Resources.resources
+C:\Users\Tiago-PC\Desktop\Programa PIM\DesktopFolhaFacil\obj\Debug\PrototipoRH.Usuarios.frmUsuario.resources
+C:\Users\Tiago-PC\Desktop\Programa PIM\DesktopFolhaFacil\obj\Debug\projeto.Desktop.csproj.GenerateResource.cache
+C:\Users\Tiago-PC\Desktop\Programa PIM\DesktopFolhaFacil\obj\Debug\projeto.Desktop.csproj.CoreCompileInputs.cache
+C:\Users\Tiago-PC\Desktop\Programa PIM\DesktopFolhaFacil\obj\Debug\projeto.Desktop.csproj.CopyComplete
+C:\Users\Tiago-PC\Desktop\Programa PIM\DesktopFolhaFacil\obj\Debug\PrototipoRH.exe
+C:\Users\Tiago-PC\Desktop\Programa PIM\DesktopFolhaFacil\obj\Debug\PrototipoRH.pdb
+C:\Users\Tiago-PC\Desktop\Programa PIM\DesktopFolhaFacil\obj\Debug\PrototipoRH.Usuarios.frmAddLogin.resources
+C:\Users\Tiago-PC\Desktop\Programa PIM\DesktopFolhaFacil\obj\Debug\PrototipoRH.Usuarios.frmDeletarLogin.resources
+C:\Users\Tiago-PC\Desktop\Programa PIM\DesktopFolhaFacil\obj\Debug\PrototipoRH.Apontamento_de_Horas.frmApontamentoHoras.resources
+D:\workspace-cs\Programa PIM\DesktopFolhaFacil\obj\Debug\PrototipoRH.Apontamento_de_Horas.frmApontamentoHoras.resources
+D:\workspace-cs\Programa PIM\DesktopFolhaFacil\obj\Debug\PrototipoRH.Usuarios.frmAddLogin.resources
+D:\workspace-cs\Programa PIM\DesktopFolhaFacil\obj\Debug\PrototipoRH.Usuarios.frmDeletarLogin.resources
+E:\Programa PIM\DesktopFolhaFacil\bin\Debug\PrototipoRH.exe.config
+E:\Programa PIM\DesktopFolhaFacil\bin\Debug\PrototipoRH.exe
+E:\Programa PIM\DesktopFolhaFacil\bin\Debug\PrototipoRH.pdb
+E:\Programa PIM\DesktopFolhaFacil\bin\Debug\classesDeControle.dll
+E:\Programa PIM\DesktopFolhaFacil\bin\Debug\projeto.Modelo.dll
+E:\Programa PIM\DesktopFolhaFacil\bin\Debug\System.Data.SqlClient.dll
+E:\Programa PIM\DesktopFolhaFacil\bin\Debug\classesDeControle.pdb
+E:\Programa PIM\DesktopFolhaFacil\bin\Debug\classesDeControle.dll.config
+E:\Programa PIM\DesktopFolhaFacil\bin\Debug\projeto.Modelo.pdb
+E:\Programa PIM\DesktopFolhaFacil\bin\Debug\System.Data.SqlClient.xml
+E:\Programa PIM\DesktopFolhaFacil\obj\Debug\projeto.Desktop.csproj.AssemblyReference.cache
+E:\Programa PIM\DesktopFolhaFacil\obj\Debug\projeto.Desktop.csproj.SuggestedBindingRedirects.cache
+E:\Programa PIM\DesktopFolhaFacil\obj\Debug\PrototipoRH.Apontamento_de_Horas.frmApontamentoHoras.resources
+E:\Programa PIM\DesktopFolhaFacil\obj\Debug\PrototipoRH.Empresas.frmAddEmpresa.resources
+E:\Programa PIM\DesktopFolhaFacil\obj\Debug\PrototipoRH.Empresas.frmDeleteEmpresa.resources
+E:\Programa PIM\DesktopFolhaFacil\obj\Debug\PrototipoRH.Empresas.frmEmpresa.resources
+E:\Programa PIM\DesktopFolhaFacil\obj\Debug\PrototipoRH.Ferias.frmFerias.resources
+E:\Programa PIM\DesktopFolhaFacil\obj\Debug\PrototipoRH.Folha_de_Pagamento.frmFolhaPagamento.resources
+E:\Programa PIM\DesktopFolhaFacil\obj\Debug\PrototipoRH.FrmPrincipal.resources
+E:\Programa PIM\DesktopFolhaFacil\obj\Debug\PrototipoRH.Funcionarios.frmAddFuncionario.resources
+E:\Programa PIM\DesktopFolhaFacil\obj\Debug\PrototipoRH.Funcionarios.frmFuncionario.resources
+E:\Programa PIM\DesktopFolhaFacil\obj\Debug\PrototipoRH.Login.frmLogin.resources
+E:\Programa PIM\DesktopFolhaFacil\obj\Debug\PrototipoRH.Properties.Resources.resources
+E:\Programa PIM\DesktopFolhaFacil\obj\Debug\PrototipoRH.Usuarios.frmAddLogin.resources
+E:\Programa PIM\DesktopFolhaFacil\obj\Debug\PrototipoRH.Usuarios.frmDeletarLogin.resources
+E:\Programa PIM\DesktopFolhaFacil\obj\Debug\PrototipoRH.Usuarios.frmUsuario.resources
+E:\Programa PIM\DesktopFolhaFacil\obj\Debug\projeto.Desktop.csproj.GenerateResource.cache
+E:\Programa PIM\DesktopFolhaFacil\obj\Debug\projeto.Desktop.csproj.CoreCompileInputs.cache
+E:\Programa PIM\DesktopFolhaFacil\obj\Debug\projeto.Desktop.csproj.CopyComplete
+E:\Programa PIM\DesktopFolhaFacil\obj\Debug\PrototipoRH.exe
+E:\Programa PIM\DesktopFolhaFacil\obj\Debug\PrototipoRH.pdb
+E:\Programa PIM\DesktopFolhaFacil\obj\Debug\PrototipoRH.Login.frmEditarLogin.resources
+C:\Users\gpnet\Documents\PIM\Programa PIM\DesktopFolhaFacil\bin\Debug\PrototipoRH.exe.config
+C:\Users\gpnet\Documents\PIM\Programa PIM\DesktopFolhaFacil\bin\Debug\PrototipoRH.exe
+C:\Users\gpnet\Documents\PIM\Programa PIM\DesktopFolhaFacil\bin\Debug\PrototipoRH.pdb
+C:\Users\gpnet\Documents\PIM\Programa PIM\DesktopFolhaFacil\bin\Debug\classesDeControle.dll
+C:\Users\gpnet\Documents\PIM\Programa PIM\DesktopFolhaFacil\bin\Debug\projeto.Modelo.dll
+C:\Users\gpnet\Documents\PIM\Programa PIM\DesktopFolhaFacil\bin\Debug\System.Data.SqlClient.dll
+C:\Users\gpnet\Documents\PIM\Programa PIM\DesktopFolhaFacil\bin\Debug\classesDeControle.pdb
+C:\Users\gpnet\Documents\PIM\Programa PIM\DesktopFolhaFacil\bin\Debug\classesDeControle.dll.config
+C:\Users\gpnet\Documents\PIM\Programa PIM\DesktopFolhaFacil\bin\Debug\projeto.Modelo.pdb
+C:\Users\gpnet\Documents\PIM\Programa PIM\DesktopFolhaFacil\bin\Debug\System.Data.SqlClient.xml
+C:\Users\gpnet\Documents\PIM\Programa PIM\DesktopFolhaFacil\obj\Debug\projeto.Desktop.csproj.AssemblyReference.cache
+C:\Users\gpnet\Documents\PIM\Programa PIM\DesktopFolhaFacil\obj\Debug\projeto.Desktop.csproj.SuggestedBindingRedirects.cache
+C:\Users\gpnet\Documents\PIM\Programa PIM\DesktopFolhaFacil\obj\Debug\PrototipoRH.Apontamento_de_Horas.frmApontamentoHoras.resources
+C:\Users\gpnet\Documents\PIM\Programa PIM\DesktopFolhaFacil\obj\Debug\PrototipoRH.Empresas.frmAddEmpresa.resources
+C:\Users\gpnet\Documents\PIM\Programa PIM\DesktopFolhaFacil\obj\Debug\PrototipoRH.Empresas.frmDeleteEmpresa.resources
+C:\Users\gpnet\Documents\PIM\Programa PIM\DesktopFolhaFacil\obj\Debug\PrototipoRH.Empresas.frmEmpresa.resources
+C:\Users\gpnet\Documents\PIM\Programa PIM\DesktopFolhaFacil\obj\Debug\PrototipoRH.Ferias.frmFerias.resources
+C:\Users\gpnet\Documents\PIM\Programa PIM\DesktopFolhaFacil\obj\Debug\PrototipoRH.Folha_de_Pagamento.frmFolhaPagamento.resources
+C:\Users\gpnet\Documents\PIM\Programa PIM\DesktopFolhaFacil\obj\Debug\PrototipoRH.FrmPrincipal.resources
+C:\Users\gpnet\Documents\PIM\Programa PIM\DesktopFolhaFacil\obj\Debug\PrototipoRH.Funcionarios.frmAddFuncionario.resources
+C:\Users\gpnet\Documents\PIM\Programa PIM\DesktopFolhaFacil\obj\Debug\PrototipoRH.Funcionarios.frmFuncionario.resources
+C:\Users\gpnet\Documents\PIM\Programa PIM\DesktopFolhaFacil\obj\Debug\PrototipoRH.Login.frmEditarLogin.resources
+C:\Users\gpnet\Documents\PIM\Programa PIM\DesktopFolhaFacil\obj\Debug\PrototipoRH.Login.frmLogin.resources
+C:\Users\gpnet\Documents\PIM\Programa PIM\DesktopFolhaFacil\obj\Debug\PrototipoRH.Properties.Resources.resources
+C:\Users\gpnet\Documents\PIM\Programa PIM\DesktopFolhaFacil\obj\Debug\PrototipoRH.Usuarios.frmAddLogin.resources
+C:\Users\gpnet\Documents\PIM\Programa PIM\DesktopFolhaFacil\obj\Debug\PrototipoRH.Usuarios.frmDeletarLogin.resources
+C:\Users\gpnet\Documents\PIM\Programa PIM\DesktopFolhaFacil\obj\Debug\PrototipoRH.Usuarios.frmUsuario.resources
+C:\Users\gpnet\Documents\PIM\Programa PIM\DesktopFolhaFacil\obj\Debug\projeto.Desktop.csproj.GenerateResource.cache
+C:\Users\gpnet\Documents\PIM\Programa PIM\DesktopFolhaFacil\obj\Debug\projeto.Desktop.csproj.CoreCompileInputs.cache
+C:\Users\gpnet\Documents\PIM\Programa PIM\DesktopFolhaFacil\obj\Debug\projeto.Desktop.csproj.CopyComplete
+C:\Users\gpnet\Documents\PIM\Programa PIM\DesktopFolhaFacil\obj\Debug\PrototipoRH.exe
+C:\Users\gpnet\Documents\PIM\Programa PIM\DesktopFolhaFacil\obj\Debug\PrototipoRH.pdb
+C:\Users\Tiago-PC\Desktop\Programa PIM\DesktopFolhaFacil\obj\Debug\PrototipoRH.Login.frmEditarLogin.resources
+C:\Users\gpnet\Pictures\Programa PIM\DesktopFolhaFacil\bin\Debug\PrototipoRH.exe.config
+C:\Users\gpnet\Pictures\Programa PIM\DesktopFolhaFacil\bin\Debug\PrototipoRH.exe
+C:\Users\gpnet\Pictures\Programa PIM\DesktopFolhaFacil\bin\Debug\PrototipoRH.pdb
+C:\Users\gpnet\Pictures\Programa PIM\DesktopFolhaFacil\bin\Debug\classesDeControle.dll
+C:\Users\gpnet\Pictures\Programa PIM\DesktopFolhaFacil\bin\Debug\projeto.Modelo.dll
+C:\Users\gpnet\Pictures\Programa PIM\DesktopFolhaFacil\bin\Debug\System.Data.SqlClient.dll
+C:\Users\gpnet\Pictures\Programa PIM\DesktopFolhaFacil\bin\Debug\classesDeControle.pdb
+C:\Users\gpnet\Pictures\Programa PIM\DesktopFolhaFacil\bin\Debug\classesDeControle.dll.config
+C:\Users\gpnet\Pictures\Programa PIM\DesktopFolhaFacil\bin\Debug\projeto.Modelo.pdb
+C:\Users\gpnet\Pictures\Programa PIM\DesktopFolhaFacil\bin\Debug\System.Data.SqlClient.xml
+C:\Users\gpnet\Pictures\Programa PIM\DesktopFolhaFacil\obj\Debug\projeto.Desktop.csproj.AssemblyReference.cache
+C:\Users\gpnet\Pictures\Programa PIM\DesktopFolhaFacil\obj\Debug\projeto.Desktop.csproj.SuggestedBindingRedirects.cache
+C:\Users\gpnet\Pictures\Programa PIM\DesktopFolhaFacil\obj\Debug\PrototipoRH.Apontamento_de_Horas.frmApontamentoHoras.resources
+C:\Users\gpnet\Pictures\Programa PIM\DesktopFolhaFacil\obj\Debug\PrototipoRH.Empresas.frmAddEmpresa.resources
+C:\Users\gpnet\Pictures\Programa PIM\DesktopFolhaFacil\obj\Debug\PrototipoRH.Empresas.frmAtualizarEmpresa.resources
+C:\Users\gpnet\Pictures\Programa PIM\DesktopFolhaFacil\obj\Debug\PrototipoRH.Empresas.frmEmpresa.resources
+C:\Users\gpnet\Pictures\Programa PIM\DesktopFolhaFacil\obj\Debug\PrototipoRH.Ferias.frmFerias.resources
+C:\Users\gpnet\Pictures\Programa PIM\DesktopFolhaFacil\obj\Debug\PrototipoRH.Folha_de_Pagamento.frmFolhaPagamento.resources
+C:\Users\gpnet\Pictures\Programa PIM\DesktopFolhaFacil\obj\Debug\PrototipoRH.FrmPrincipal.resources
+C:\Users\gpnet\Pictures\Programa PIM\DesktopFolhaFacil\obj\Debug\PrototipoRH.Funcionarios.frmAddFuncionario.resources
+C:\Users\gpnet\Pictures\Programa PIM\DesktopFolhaFacil\obj\Debug\PrototipoRH.Funcionarios.frmFuncionario.resources
+C:\Users\gpnet\Pictures\Programa PIM\DesktopFolhaFacil\obj\Debug\PrototipoRH.Login.frmEditarLogin.resources
+C:\Users\gpnet\Pictures\Programa PIM\DesktopFolhaFacil\obj\Debug\PrototipoRH.Login.frmLogin.resources
+C:\Users\gpnet\Pictures\Programa PIM\DesktopFolhaFacil\obj\Debug\PrototipoRH.Properties.Resources.resources
+C:\Users\gpnet\Pictures\Programa PIM\DesktopFolhaFacil\obj\Debug\PrototipoRH.Usuarios.frmAddLogin.resources
+C:\Users\gpnet\Pictures\Programa PIM\DesktopFolhaFacil\obj\Debug\PrototipoRH.Usuarios.frmDeletarLogin.resources
+C:\Users\gpnet\Pictures\Programa PIM\DesktopFolhaFacil\obj\Debug\PrototipoRH.Usuarios.frmUsuario.resources
+C:\Users\gpnet\Pictures\Programa PIM\DesktopFolhaFacil\obj\Debug\projeto.Desktop.csproj.GenerateResource.cache
+C:\Users\gpnet\Pictures\Programa PIM\DesktopFolhaFacil\obj\Debug\projeto.Desktop.csproj.CoreCompileInputs.cache
+C:\Users\gpnet\Pictures\Programa PIM\DesktopFolhaFacil\obj\Debug\projeto.Desktop.csproj.CopyComplete
+C:\Users\gpnet\Pictures\Programa PIM\DesktopFolhaFacil\obj\Debug\PrototipoRH.exe
+C:\Users\gpnet\Pictures\Programa PIM\DesktopFolhaFacil\obj\Debug\PrototipoRH.pdb
+C:\Users\Windows\Downloads\Programa PIM\DesktopFolhaFacil\bin\Debug\PrototipoRH.exe.config
+C:\Users\Windows\Downloads\Programa PIM\DesktopFolhaFacil\bin\Debug\PrototipoRH.exe
+C:\Users\Windows\Downloads\Programa PIM\DesktopFolhaFacil\bin\Debug\PrototipoRH.pdb
+C:\Users\Windows\Downloads\Programa PIM\DesktopFolhaFacil\bin\Debug\classesDeControle.dll
+C:\Users\Windows\Downloads\Programa PIM\DesktopFolhaFacil\bin\Debug\projeto.Modelo.dll
+C:\Users\Windows\Downloads\Programa PIM\DesktopFolhaFacil\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Windows\Downloads\Programa PIM\DesktopFolhaFacil\bin\Debug\classesDeControle.pdb
+C:\Users\Windows\Downloads\Programa PIM\DesktopFolhaFacil\bin\Debug\classesDeControle.dll.config
+C:\Users\Windows\Downloads\Programa PIM\DesktopFolhaFacil\bin\Debug\projeto.Modelo.pdb
+C:\Users\Windows\Downloads\Programa PIM\DesktopFolhaFacil\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Windows\Downloads\Programa PIM\DesktopFolhaFacil\obj\Debug\projeto.Desktop.csproj.AssemblyReference.cache
+C:\Users\Windows\Downloads\Programa PIM\DesktopFolhaFacil\obj\Debug\projeto.Desktop.csproj.SuggestedBindingRedirects.cache
+C:\Users\Windows\Downloads\Programa PIM\DesktopFolhaFacil\obj\Debug\PrototipoRH.Apontamento_de_Horas.frmApontamentoHoras.resources
+C:\Users\Windows\Downloads\Programa PIM\DesktopFolhaFacil\obj\Debug\PrototipoRH.Empresas.frmAddEmpresa.resources
+C:\Users\Windows\Downloads\Programa PIM\DesktopFolhaFacil\obj\Debug\PrototipoRH.Empresas.frmAtualizarEmpresa.resources
+C:\Users\Windows\Downloads\Programa PIM\DesktopFolhaFacil\obj\Debug\PrototipoRH.Empresas.frmEmpresa.resources
+C:\Users\Windows\Downloads\Programa PIM\DesktopFolhaFacil\obj\Debug\PrototipoRH.Ferias.frmFerias.resources
+C:\Users\Windows\Downloads\Programa PIM\DesktopFolhaFacil\obj\Debug\PrototipoRH.Folha_de_Pagamento.frmFolhaPagamento.resources
+C:\Users\Windows\Downloads\Programa PIM\DesktopFolhaFacil\obj\Debug\PrototipoRH.FrmPrincipal.resources
+C:\Users\Windows\Downloads\Programa PIM\DesktopFolhaFacil\obj\Debug\PrototipoRH.Funcionarios.frmAddFuncionario.resources
+C:\Users\Windows\Downloads\Programa PIM\DesktopFolhaFacil\obj\Debug\PrototipoRH.Funcionarios.frmFuncionario.resources
+C:\Users\Windows\Downloads\Programa PIM\DesktopFolhaFacil\obj\Debug\PrototipoRH.Login.frmEditarLogin.resources
+C:\Users\Windows\Downloads\Programa PIM\DesktopFolhaFacil\obj\Debug\PrototipoRH.Login.frmLogin.resources
+C:\Users\Windows\Downloads\Programa PIM\DesktopFolhaFacil\obj\Debug\PrototipoRH.Properties.Resources.resources
+C:\Users\Windows\Downloads\Programa PIM\DesktopFolhaFacil\obj\Debug\PrototipoRH.Usuarios.frmAddLogin.resources
+C:\Users\Windows\Downloads\Programa PIM\DesktopFolhaFacil\obj\Debug\PrototipoRH.Usuarios.frmDeletarLogin.resources
+C:\Users\Windows\Downloads\Programa PIM\DesktopFolhaFacil\obj\Debug\PrototipoRH.Usuarios.frmUsuario.resources
+C:\Users\Windows\Downloads\Programa PIM\DesktopFolhaFacil\obj\Debug\projeto.Desktop.csproj.GenerateResource.cache
+C:\Users\Windows\Downloads\Programa PIM\DesktopFolhaFacil\obj\Debug\projeto.Desktop.csproj.CoreCompileInputs.cache
+C:\Users\Windows\Downloads\Programa PIM\DesktopFolhaFacil\obj\Debug\projeto.Desktop.csproj.CopyComplete
+C:\Users\Windows\Downloads\Programa PIM\DesktopFolhaFacil\obj\Debug\PrototipoRH.exe
+C:\Users\Windows\Downloads\Programa PIM\DesktopFolhaFacil\obj\Debug\PrototipoRH.pdb
+C:\Users\gpnet\Documents\Programa PIM\DesktopFolhaFacil\bin\Debug\PrototipoRH.exe.config
+C:\Users\gpnet\Documents\Programa PIM\DesktopFolhaFacil\bin\Debug\PrototipoRH.exe
+C:\Users\gpnet\Documents\Programa PIM\DesktopFolhaFacil\bin\Debug\PrototipoRH.pdb
+C:\Users\gpnet\Documents\Programa PIM\DesktopFolhaFacil\bin\Debug\classesDeControle.dll
+C:\Users\gpnet\Documents\Programa PIM\DesktopFolhaFacil\bin\Debug\projeto.Modelo.dll
+C:\Users\gpnet\Documents\Programa PIM\DesktopFolhaFacil\bin\Debug\System.Data.SqlClient.dll
+C:\Users\gpnet\Documents\Programa PIM\DesktopFolhaFacil\bin\Debug\classesDeControle.pdb
+C:\Users\gpnet\Documents\Programa PIM\DesktopFolhaFacil\bin\Debug\classesDeControle.dll.config
+C:\Users\gpnet\Documents\Programa PIM\DesktopFolhaFacil\bin\Debug\projeto.Modelo.pdb
+C:\Users\gpnet\Documents\Programa PIM\DesktopFolhaFacil\bin\Debug\System.Data.SqlClient.xml
+C:\Users\gpnet\Documents\Programa PIM\DesktopFolhaFacil\obj\Debug\projeto.Desktop.csproj.AssemblyReference.cache
+C:\Users\gpnet\Documents\Programa PIM\DesktopFolhaFacil\obj\Debug\projeto.Desktop.csproj.SuggestedBindingRedirects.cache
+C:\Users\gpnet\Documents\Programa PIM\DesktopFolhaFacil\obj\Debug\PrototipoRH.Apontamento_de_Horas.frmApontamentoHoras.resources
+C:\Users\gpnet\Documents\Programa PIM\DesktopFolhaFacil\obj\Debug\PrototipoRH.Empresas.frmAddEmpresa.resources
+C:\Users\gpnet\Documents\Programa PIM\DesktopFolhaFacil\obj\Debug\PrototipoRH.Empresas.frmAtualizarEmpresa.resources
+C:\Users\gpnet\Documents\Programa PIM\DesktopFolhaFacil\obj\Debug\PrototipoRH.Empresas.frmEmpresa.resources
+C:\Users\gpnet\Documents\Programa PIM\DesktopFolhaFacil\obj\Debug\PrototipoRH.Ferias.frmFerias.resources
+C:\Users\gpnet\Documents\Programa PIM\DesktopFolhaFacil\obj\Debug\PrototipoRH.Folha_de_Pagamento.frmFolhaPagamento.resources
+C:\Users\gpnet\Documents\Programa PIM\DesktopFolhaFacil\obj\Debug\PrototipoRH.FrmPrincipal.resources
+C:\Users\gpnet\Documents\Programa PIM\DesktopFolhaFacil\obj\Debug\PrototipoRH.Funcionarios.frmAddFuncionario.resources
+C:\Users\gpnet\Documents\Programa PIM\DesktopFolhaFacil\obj\Debug\PrototipoRH.Funcionarios.frmFuncionario.resources
+C:\Users\gpnet\Documents\Programa PIM\DesktopFolhaFacil\obj\Debug\PrototipoRH.Login.frmEditarLogin.resources
+C:\Users\gpnet\Documents\Programa PIM\DesktopFolhaFacil\obj\Debug\PrototipoRH.Login.frmLogin.resources
+C:\Users\gpnet\Documents\Programa PIM\DesktopFolhaFacil\obj\Debug\PrototipoRH.Properties.Resources.resources
+C:\Users\gpnet\Documents\Programa PIM\DesktopFolhaFacil\obj\Debug\PrototipoRH.Usuarios.frmAddLogin.resources
+C:\Users\gpnet\Documents\Programa PIM\DesktopFolhaFacil\obj\Debug\PrototipoRH.Usuarios.frmDeletarLogin.resources
+C:\Users\gpnet\Documents\Programa PIM\DesktopFolhaFacil\obj\Debug\PrototipoRH.Usuarios.frmUsuario.resources
+C:\Users\gpnet\Documents\Programa PIM\DesktopFolhaFacil\obj\Debug\projeto.Desktop.csproj.GenerateResource.cache
+C:\Users\gpnet\Documents\Programa PIM\DesktopFolhaFacil\obj\Debug\projeto.Desktop.csproj.CoreCompileInputs.cache
+C:\Users\gpnet\Documents\Programa PIM\DesktopFolhaFacil\obj\Debug\projeto.Desktop.csproj.CopyComplete
+C:\Users\gpnet\Documents\Programa PIM\DesktopFolhaFacil\obj\Debug\PrototipoRH.exe
+C:\Users\gpnet\Documents\Programa PIM\DesktopFolhaFacil\obj\Debug\PrototipoRH.pdb
+C:\Users\Tiago-PC\Desktop\Programa PIM\DesktopFolhaFacil\obj\Debug\PrototipoRH.Empresas.frmAtualizarEmpresa.resources
+C:\Users\Tiago-PC\Desktop\Programa PIM\DesktopFolhaFacil\obj\Debug\PrototipoRH.Folha_de_Pagamento.frmCaculoFolha.resources
+C:\Users\Tiago-PC\Desktop\Programa PIM\DesktopFolhaFacil\obj\Debug\PrototipoRH.Ferias.frmAtribuirFerias.resources
+C:\Users\gpnet\Pictures\Programa PIM\DesktopFolhaFacil\obj\Debug\PrototipoRH.Ferias.frmAtribuirFerias.resources
+C:\Users\gpnet\Pictures\Programa PIM\DesktopFolhaFacil\obj\Debug\PrototipoRH.Folha_de_Pagamento.frmCaculoFolha.resources
+C:\Users\gpnet\Pictures\Programa PIM\DesktopFolhaFacil\obj\Debug\PrototipoRH.Funcionarios.frmUpdateFuncionario.resources
+C:\Users\Windows\Downloads\PROGRAMA PIM\Programa PIM\DesktopFolhaFacil\obj\Debug\projeto.Desktop.csproj.AssemblyReference.cache
+C:\Users\Windows\Downloads\PROGRAMA PIM\Programa PIM\DesktopFolhaFacil\obj\Debug\projeto.Desktop.csproj.SuggestedBindingRedirects.cache
+C:\Users\Windows\Downloads\PROGRAMA PIM\Programa PIM\DesktopFolhaFacil\obj\Debug\PrototipoRH.Apontamento_de_Horas.frmApontamentoHoras.resources
+C:\Users\Windows\Downloads\PROGRAMA PIM\Programa PIM\DesktopFolhaFacil\obj\Debug\PrototipoRH.Empresas.frmAddEmpresa.resources
+C:\Users\Windows\Downloads\PROGRAMA PIM\Programa PIM\DesktopFolhaFacil\obj\Debug\PrototipoRH.Empresas.frmAtualizarEmpresa.resources
+C:\Users\Windows\Downloads\PROGRAMA PIM\Programa PIM\DesktopFolhaFacil\obj\Debug\PrototipoRH.Empresas.frmEmpresa.resources
+C:\Users\Windows\Downloads\PROGRAMA PIM\Programa PIM\DesktopFolhaFacil\obj\Debug\PrototipoRH.Ferias.frmAtribuirFerias.resources
+C:\Users\Windows\Downloads\PROGRAMA PIM\Programa PIM\DesktopFolhaFacil\obj\Debug\PrototipoRH.Ferias.frmFerias.resources
+C:\Users\Windows\Downloads\PROGRAMA PIM\Programa PIM\DesktopFolhaFacil\obj\Debug\PrototipoRH.Folha_de_Pagamento.frmCaculoFolha.resources
+C:\Users\Windows\Downloads\PROGRAMA PIM\Programa PIM\DesktopFolhaFacil\obj\Debug\PrototipoRH.Folha_de_Pagamento.frmFolhaPagamento.resources
+C:\Users\Windows\Downloads\PROGRAMA PIM\Programa PIM\DesktopFolhaFacil\obj\Debug\PrototipoRH.FrmPrincipal.resources
+C:\Users\Windows\Downloads\PROGRAMA PIM\Programa PIM\DesktopFolhaFacil\obj\Debug\PrototipoRH.Funcionarios.frmAddFuncionario.resources
+C:\Users\Windows\Downloads\PROGRAMA PIM\Programa PIM\DesktopFolhaFacil\obj\Debug\PrototipoRH.Funcionarios.frmFuncionario.resources
+C:\Users\Windows\Downloads\PROGRAMA PIM\Programa PIM\DesktopFolhaFacil\obj\Debug\PrototipoRH.Funcionarios.frmUpdateFuncionario.resources
+C:\Users\Windows\Downloads\PROGRAMA PIM\Programa PIM\DesktopFolhaFacil\obj\Debug\PrototipoRH.Login.frmEditarLogin.resources
+C:\Users\Windows\Downloads\PROGRAMA PIM\Programa PIM\DesktopFolhaFacil\obj\Debug\PrototipoRH.Login.frmLogin.resources
+C:\Users\Windows\Downloads\PROGRAMA PIM\Programa PIM\DesktopFolhaFacil\obj\Debug\PrototipoRH.Properties.Resources.resources
+C:\Users\Windows\Downloads\PROGRAMA PIM\Programa PIM\DesktopFolhaFacil\obj\Debug\PrototipoRH.Usuarios.frmAddLogin.resources
+C:\Users\Windows\Downloads\PROGRAMA PIM\Programa PIM\DesktopFolhaFacil\obj\Debug\PrototipoRH.Usuarios.frmDeletarLogin.resources
+C:\Users\Windows\Downloads\PROGRAMA PIM\Programa PIM\DesktopFolhaFacil\obj\Debug\PrototipoRH.Usuarios.frmUsuario.resources
+C:\Users\Windows\Downloads\PROGRAMA PIM\Programa PIM\DesktopFolhaFacil\obj\Debug\projeto.Desktop.csproj.GenerateResource.cache
+C:\Users\Windows\Downloads\PROGRAMA PIM\Programa PIM\DesktopFolhaFacil\obj\Debug\projeto.Desktop.csproj.CoreCompileInputs.cache
+C:\Users\Windows\Downloads\PROGRAMA PIM\Programa PIM\DesktopFolhaFacil\obj\Debug\PrototipoRH.exe
+C:\Users\Windows\Downloads\PROGRAMA PIM\Programa PIM\DesktopFolhaFacil\obj\Debug\PrototipoRH.pdb
+C:\Users\Windows\Downloads\PROGRAMA PIM\Programa PIM\DesktopFolhaFacil\bin\Debug\PrototipoRH.exe.config
+C:\Users\Windows\Downloads\PROGRAMA PIM\Programa PIM\DesktopFolhaFacil\bin\Debug\PrototipoRH.exe
+C:\Users\Windows\Downloads\PROGRAMA PIM\Programa PIM\DesktopFolhaFacil\bin\Debug\PrototipoRH.pdb
+C:\Users\Windows\Downloads\PROGRAMA PIM\Programa PIM\DesktopFolhaFacil\bin\Debug\classesDeControle.dll
+C:\Users\Windows\Downloads\PROGRAMA PIM\Programa PIM\DesktopFolhaFacil\bin\Debug\projeto.Modelo.dll
+C:\Users\Windows\Downloads\PROGRAMA PIM\Programa PIM\DesktopFolhaFacil\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Windows\Downloads\PROGRAMA PIM\Programa PIM\DesktopFolhaFacil\bin\Debug\classesDeControle.pdb
+C:\Users\Windows\Downloads\PROGRAMA PIM\Programa PIM\DesktopFolhaFacil\bin\Debug\classesDeControle.dll.config
+C:\Users\Windows\Downloads\PROGRAMA PIM\Programa PIM\DesktopFolhaFacil\bin\Debug\projeto.Modelo.pdb
+C:\Users\Windows\Downloads\PROGRAMA PIM\Programa PIM\DesktopFolhaFacil\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Windows\Downloads\PROGRAMA PIM\Programa PIM\DesktopFolhaFacil\obj\Debug\projeto.Desktop.csproj.CopyComplete
+C:\Users\gpnet\Documents\Programa PIM\DesktopFolhaFacil\obj\Debug\PrototipoRH.Ferias.frmAtribuirFerias.resources
+C:\Users\gpnet\Documents\Programa PIM\DesktopFolhaFacil\obj\Debug\PrototipoRH.Folha_de_Pagamento.frmCaculoFolha.resources
+C:\Users\gpnet\Documents\Programa PIM\DesktopFolhaFacil\obj\Debug\PrototipoRH.Funcionarios.frmUpdateFuncionario.resources
+C:\Users\Tiago-PC\Desktop\Programa PIM\DesktopFolhaFacil\obj\Debug\PrototipoRH.Funcionarios.frmUpdateFuncionario.resources
